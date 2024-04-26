@@ -64,4 +64,23 @@
 |F12|동적 입력|커서 주위에 거리와 각도를 표시하고 탭을 사용하여 필드 간을 이동하면 입력한 내용이 적용|
 
 
-
+## 자주사용하는 명령어 모음
+|명령어|용도|명령어|용도|명령어|용도|명령어|용도|
+|------|---|---|---|---|---|---|---|
+|Line|선 그리기|EXtend|물체의 연장|MText|다중행 문자 입력|Ctrl + S|도면의 저장|
+|Circle|원 그리기|MIrror|물체의 대칭 복사|DText|단일행 문자 입력|Ctrl + N|새로운 도면의 작성|
+|Arc|원호 그리기|Move|물체의 이동|DIst|길이•각도 측정|Ctrl + O|도면 열기|
+|RECTANG|사각형 그리기|COpy|물체의 복사|BHatch|해칭하기(대화상자)|Ctrl + Shift + C|기준점 복사|
+|POLygon|다각형 그리기|BReak|물체의 절단|DDEDIT|문자편집|Ctrl + Shift + V|기준점 붙혀넣기|
+|REgen|사라진 도면 재생성|ROtate|물체의 회전|TestSTyle|문자 스타일 정하기|Startup 0|시작화면구성|
+|Zoom|화면 확대 및 축소(전체A,범위E,객체O)|ARray|물체의 배열 복사|LAyer|레이어 설정|Rlbbon-close|화면 탭 구성|
+|Pan|화면 이동, 고정|Stretch|물체의 줄이고 늘이기|LineType|라인 타입 설정|UNit|도면단위|
+|SCale|물체의 크기 조절|CHAmfer|모서리의 모따기|PLine|폴리라인 그리기|||
+|Erase|도면요소의 삭제|Fillet|모서리의 라운딩|PEdit|폴리라인 편집|OP|옵션창|
+|Undo|이전 실행명령 취소|eXplode|도면 요소의 분해|PIOT|출력하기|||
+|OSnap|물체의 특정점 찍기|MLine|다중선 그리기|||||
+|Offset|물체의 수평 복사|DOnut|도넛 그리기|||||
+|TRim|교차부 끊어내기|EIlipse|타원 그리기|||||
+|||||||||
+|||||||||
+|||||||||
